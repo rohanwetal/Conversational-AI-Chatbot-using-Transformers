@@ -12,6 +12,7 @@ Real-Time Interaction: Streamlit-based web interface for engaging in live conver
 
 Efficient Performance: Optimized response latency and enhanced user engagement through streamlined processing.
 
+
 **🛠️ Tech Stack**
 
 Python
@@ -24,22 +25,27 @@ Streamlit
 
 Tokenizers
 
+
 **📦 Installation**
 
 Clone the Repository:
 
-git clone https://github.com/your-username/conversational-ai-chatbot.git
+git clone https://github.com/rohanwetal/Conversational-AI-Chatbot-using-Transformers.git
 
-cd conversational-ai-chatbot
+cd Conversational-AI-Chatbot-using-Transformers
+
 
 Install Dependencies:
 
 pip install -r requirements.txt
 
+
+
 **💬 Running the Chatbot**
 
 Start the Streamlit web interface:
 streamlit run app.py
+
 
 **📊 Performance Metrics**
 
@@ -48,6 +54,7 @@ User Engagement: Increased by 45% post-deployment.
 Response Latency: Reduced by 30% through optimization.
 
 Conversational Coherence: Improved by 40% after dataset preprocessing.
+
 
 **📁 Dataset Preprocessing**
 
@@ -58,6 +65,7 @@ Cleaning and normalizing text data.
 Removing irrelevant or noisy entries.
 
 Structuring conversations for context retention.
+
 
 **📚 Use Cases**
 
