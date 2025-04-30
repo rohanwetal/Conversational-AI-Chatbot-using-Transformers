@@ -1,4 +1,4 @@
-**🤖 Conversational AI Chatbot**
+**🤖Conversational AI Chatbot using Transformers**
 
 A transformer-based chatbot built using Microsoft's DialoGPT and Hugging Face Transformers. This project enables human-like, context-aware conversations across diverse topics, featuring a real-time web interface for seamless interaction.
 
